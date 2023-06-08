@@ -1,0 +1,14 @@
+c:\Users\Apple\Desktop\PublishOutput\test2.exe
+c:\Users\Apple\Desktop\PublishOutput\appsettings.Development.json
+c:\Users\Apple\Desktop\PublishOutput\appsettings.json
+c:\Users\Apple\Desktop\PublishOutput\test2.dll
+c:\Users\Apple\Desktop\PublishOutput\test2.deps.json
+c:\Users\Apple\Desktop\PublishOutput\test2.runtimeconfig.json
+c:\Users\Apple\Desktop\PublishOutput\test2.pdb
+c:\Users\Apple\Desktop\PublishOutput\Microsoft.AspNetCore.OpenApi.dll
+c:\Users\Apple\Desktop\PublishOutput\Microsoft.OpenApi.dll
+c:\Users\Apple\Desktop\PublishOutput\Newtonsoft.Json.dll
+c:\Users\Apple\Desktop\PublishOutput\RestSharp.dll
+c:\Users\Apple\Desktop\PublishOutput\Swashbuckle.AspNetCore.Swagger.dll
+c:\Users\Apple\Desktop\PublishOutput\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\Users\Apple\Desktop\PublishOutput\Swashbuckle.AspNetCore.SwaggerUI.dll

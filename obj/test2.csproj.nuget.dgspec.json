@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Apple\\Desktop\\test2\\test2.csproj": {}
+    "c:\\Users\\Apple\\Desktop\\test2\\test2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Apple\\Desktop\\test2\\test2.csproj": {
+    "c:\\Users\\Apple\\Desktop\\test2\\test2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Apple\\Desktop\\test2\\test2.csproj",
+        "projectUniqueName": "c:\\Users\\Apple\\Desktop\\test2\\test2.csproj",
         "projectName": "test2",
-        "projectPath": "C:\\Users\\Apple\\Desktop\\test2\\test2.csproj",
+        "projectPath": "c:\\Users\\Apple\\Desktop\\test2\\test2.csproj",
         "packagesPath": "C:\\Users\\Apple\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Apple\\Desktop\\test2\\obj\\",
+        "outputPath": "c:\\Users\\Apple\\Desktop\\test2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Apple\\AppData\\Roaming\\NuGet\\NuGet.Config"
